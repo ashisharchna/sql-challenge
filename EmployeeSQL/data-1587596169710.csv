@@ -1,0 +1,25 @@
+dbms,table_catalog,table_schema,table_name,column_name,ordinal_position,data_type,character_maximum_length,constraint_type,table_schema-2,table_name-2,column_name-2
+postgresql,Employee,public,employees,last_name,4,character varying,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,dept_emp,dept_no,2,character varying,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,salaries,from_date,3,character varying,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,dept_emp,from_date,3,character varying,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,salaries,to_date,4,character varying,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,dept_emp,to_date,4,character varying,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,titles,from_data,3,character varying,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,employees,emp_no,1,integer,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,dept_emp,emp_no,1,integer,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,salaries,emp_no,1,integer,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,salaries,salary,2,integer,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,departments,dept_no,1,character varying,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,titles,emp_no,1,integer,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,employees,gender,5,character varying,2,NULL,NULL,NULL,NULL
+postgresql,Employee,public,departments,dept_name,2,character varying,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,titles,to_data,4,character varying,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,titles,title,2,character varying,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,dept_manager,to_date,4,character varying,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,employees,birth_date,2,character varying,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,employees,hire_date,6,character varying,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,dept_manager,emp_no,2,integer,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,dept_manager,from_date,3,character varying,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,dept_manager,dept_no,1,character varying,NULL,NULL,NULL,NULL,NULL
+postgresql,Employee,public,employees,first_name,3,character varying,NULL,NULL,NULL,NULL,NULL
